@@ -24,3 +24,4 @@ git 仓库下面有很多文件 假如
 
 这一行n 加的
 这里是在nwe_feature上的
+random jiade 
